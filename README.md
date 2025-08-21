@@ -1,0 +1,2 @@
+# Documentation
+All documentation for the Reciplease project (including the .NET web API that in the same root as this README.md) is located in the front end project (reciplease-frontend). This way there is a single source of truth for everything from ADR's to visual diagram and flow charts.
